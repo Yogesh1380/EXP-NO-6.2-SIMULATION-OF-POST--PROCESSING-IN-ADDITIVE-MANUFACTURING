@@ -48,9 +48,7 @@
 ## Output:
 
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/de2e27b8-faa2-4e58-9ae8-09a255dd4d18" />
-
 <img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/0f176072-00a8-4b05-98f7-1c7347bb0bfc" />
-   
 <img width="1919" height="1092" alt="image" src="https://github.com/user-attachments/assets/1f99eec4-57db-42a8-a64d-f3f686a51fbe" />
 
  
